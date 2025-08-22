@@ -20,5 +20,5 @@ Built for Gen Z learners 🧑‍💻 but with **institutional-level analysis vib
 
 Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/ai-stock-dashboard.git
+git clone https://github.com/mals77703/ai-stock-dashboard.git
 cd ai-stock-dashboard
